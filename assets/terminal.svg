@@ -1,19 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340">
-<style>text{font-family:Consolas,"DejaVu Sans Mono",monospace;font-size:16px}
-.l{animation:show .01s backwards}
-@keyframes show{from{opacity:0}}
-.c{animation:blink 1s steps(2,start) infinite}@keyframes blink{to{visibility:hidden}}</style>
-<rect width="800" height="340" rx="10" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="394" viewBox="0 0 800 394">
+<style>text{font-family:Consolas,Menlo,"DejaVu Sans Mono",monospace;font-size:15px}</style>
+<defs>
+<clipPath id="c0"><rect x="20" y="44" width="760" height="24"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0.0;180.0;189.0;198.0;207.0;216.0;225.0;274.0;274.0;0.0" keyTimes="0.0000;0.0250;0.0271;0.0292;0.0312;0.0333;0.0354;0.0375;0.9167;0.9171"/></rect></clipPath>
+<clipPath id="c2"><rect x="20" y="100" width="760" height="24"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0;373.0;373.0;0.0" keyTimes="0.0000;0.0729;0.0750;0.0771;0.0792;0.0813;0.0833;0.0854;0.0875;0.0896;0.0917;0.0938;0.0958;0.0979;0.1000;0.1021;0.1042;0.1062;0.1083;0.9167;0.9171"/></rect></clipPath>
+<clipPath id="c4"><rect x="20" y="156" width="760" height="24"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0;333.0;382.0;382.0;0.0" keyTimes="0.0000;0.1438;0.1458;0.1479;0.1500;0.1521;0.1542;0.1562;0.1583;0.1604;0.1625;0.1646;0.1667;0.1688;0.1708;0.1729;0.1750;0.1771;0.1792;0.1813;0.9167;0.9171"/></rect></clipPath>
+<clipPath id="c6"><rect x="20" y="212" width="760" height="24"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0;333.0;342.0;351.0;360.0;369.0;378.0;427.0;427.0;0.0" keyTimes="0.0000;0.2167;0.2188;0.2208;0.2229;0.2250;0.2271;0.2292;0.2312;0.2333;0.2354;0.2375;0.2396;0.2417;0.2438;0.2458;0.2479;0.2500;0.2521;0.2542;0.2563;0.2583;0.2604;0.2625;0.2646;0.9167;0.9171"/></rect></clipPath>
+</defs>
+<rect width="800" height="394" rx="10" fill="#0d1117" stroke="#30363d"/>
 <rect width="800" height="38" rx="10" fill="#161b22"/><rect y="28" width="800" height="10" fill="#161b22"/>
 <circle cx="24" cy="19" r="7" fill="#ff5f56"/><circle cx="48" cy="19" r="7" fill="#ffbd2e"/><circle cx="72" cy="19" r="7" fill="#27c93f"/>
-<text x="400" y="24" fill="#8b949e" text-anchor="middle" font-size="14">yersons@ubuntu: ~</text>
-<g class="l" style="animation-delay:0.3s"><text x="24" y="72"><tspan fill="#7ee787">yersons@ubuntu:~$&#160;</tspan><tspan fill="#e6edf3">whoami</tspan></text></g>
-<g class="l" style="animation-delay:1.2s"><text x="24" y="102"><tspan fill="#7ee787"></tspan><tspan fill="#e6edf3">Yerson - Desarrollador</tspan></text></g>
-<g class="l" style="animation-delay:2.1s"><text x="24" y="132"><tspan fill="#7ee787">yersons@ubuntu:~$&#160;</tspan><tspan fill="#e6edf3">cat lenguajes.txt</tspan></text></g>
-<g class="l" style="animation-delay:3.0s"><text x="24" y="162"><tspan fill="#7ee787"></tspan><tspan fill="#e6edf3">Python | JavaScript | HTML | CSS</tspan></text></g>
-<g class="l" style="animation-delay:3.9s"><text x="24" y="192"><tspan fill="#7ee787">yersons@ubuntu:~$&#160;</tspan><tspan fill="#e6edf3">ls servicios/</tspan></text></g>
-<g class="l" style="animation-delay:4.8s"><text x="24" y="222"><tspan fill="#7ee787"></tspan><tspan fill="#79c0ff">servidores-ubuntu/  bots-kick/  mods-minecraft/</tspan></text></g>
-<g class="l" style="animation-delay:5.7s"><text x="24" y="252"><tspan fill="#7ee787">yersons@ubuntu:~$&#160;</tspan><tspan fill="#e6edf3">echo $ESTADO</tspan></text></g>
-<g class="l" style="animation-delay:6.6s"><text x="24" y="282"><tspan fill="#7ee787"></tspan><tspan fill="#e6edf3">Aprendiendo y creando cosas nuevas cada dia</tspan></text></g>
-<g class="l" style="animation-delay:7.5s"><text x="24" y="312" fill="#7ee787">yersons@ubuntu:~$&#160;<tspan class="c" fill="#e6edf3">█</tspan></text></g>
+<text x="400" y="24" fill="#8b949e" text-anchor="middle" font-size="13">yerson@logistics: ~</text>
+<g clip-path="url(#c0)"><text x="24" y="62" xml:space="preserve"><tspan fill="#7ee787">yerson@logistics:~$ </tspan><tspan fill="#e6edf3">whoami</tspan></text></g>
+<text x="24" y="90" fill="#e6edf3" xml:space="preserve">Yerson | Logistics and Transport student<animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.0583;0.9167"/></text>
+<g clip-path="url(#c2)"><text x="24" y="118" xml:space="preserve"><tspan fill="#7ee787">yerson@logistics:~$ </tspan><tspan fill="#e6edf3">cat languages.txt</tspan></text></g>
+<text x="24" y="146" fill="#79c0ff" xml:space="preserve">Python   JavaScript   HTML   CSS   R<animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.1292;0.9167"/></text>
+<g clip-path="url(#c4)"><text x="24" y="174" xml:space="preserve"><tspan fill="#7ee787">yerson@logistics:~$ </tspan><tspan fill="#e6edf3">ls infrastructure/</tspan></text></g>
+<text x="24" y="202" fill="#79c0ff" xml:space="preserve">ubuntu-servers/   minecraft-mods/<animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.2021;0.9167"/></text>
+<g clip-path="url(#c6)"><text x="24" y="230" xml:space="preserve"><tspan fill="#7ee787">yerson@logistics:~$ </tspan><tspan fill="#e6edf3">cat future_projects.txt</tspan></text></g>
+<text x="24" y="258" fill="#e3b341" xml:space="preserve">- Route optimization models<animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.2854;0.9167"/></text>
+<text x="24" y="286" fill="#e3b341" xml:space="preserve">- Supply chain and inventory analytics<animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.3000;0.9167"/></text>
+<text x="24" y="314" fill="#e3b341" xml:space="preserve">- Transport and logistics KPI dashboards<animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.3146;0.9167"/></text>
+<text x="24" y="342" xml:space="preserve" fill="#7ee787">yerson@logistics:~$ <animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.3396;0.9167"/></text>
+<g><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.3396;0.9167"/><rect x="204.0" y="328" width="9" height="18" fill="#e6edf3"><animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0" keyTimes="0;0.5"/></rect></g>
 </svg>
